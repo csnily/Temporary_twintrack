@@ -94,7 +94,7 @@ python twintrack/visualize.py --config twintrack/config.py --dataset DCT --check
 - All main/ablation/cross-dataset/robustness experiments can be reproduced by adjusting `config.py` and running the above scripts.
 - For Grad-CAM and failure analysis, use `visualize.py` with appropriate flags.
 
-## Citation
+<!-- ## Citation
 ```
 @article{Ying2024TwinTrack,
   title={A Twin-Level Feature Synthesis and Long-Term Coherence Framework for Multi-Object Animal Tracking in Outdoor Farm Environments},
@@ -102,7 +102,7 @@ python twintrack/visualize.py --config twintrack/config.py --dataset DCT --check
   journal={Engineering Applications of Artificial Intelligence},
   year={2024}
 }
-```
+``` -->
 
 ## License
 MIT License 
